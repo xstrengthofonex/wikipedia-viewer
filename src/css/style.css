@@ -3,3 +3,56 @@ body {
 	color: #444;
 	font-family: 'Lato', sans-serif;
 }
+
+h1 {
+	font-size: 50px;
+	font-weight: lighter;
+}
+
+.wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0 4%;
+	text-align: center;
+}
+
+input {
+	font-size: 18px;	
+}
+
+.btn {
+	margin: 16px 0.5px;
+	height: 34px;
+	width: 90px;
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	border-radius: 4px;		
+}
+
+.btn:hover {
+	cursor: pointer;
+	outline: none;
+	background-color: #2980b9;	
+}
+
+#search-section {
+	width: 100%;
+} 
+
+#search-input {
+	width: 96%;
+	padding: 0 2%;
+	height: 30px;
+	color: #444;
+	text-align: center;
+
+}
+
+#random-btn {
+	background-color: #2ecc71;	
+}
+
+#random-btn:hover {
+	background-color: #27ae60;	
+}
