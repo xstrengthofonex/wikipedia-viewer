@@ -35,6 +35,7 @@ input {
 	margin: 16px 0.5px;
 	height: 34px;
 	width: 90px;
+	height: 46px;
 	background-color: #3498db;
 	color: #fff;
 	border: none;
@@ -53,8 +54,7 @@ input {
 
 #search-input {
 	width: 96%;
-	padding: 0 2%;
-	height: 30px;
+	padding: 8px 2%;
 	color: #444;
 	text-align: center;
 
